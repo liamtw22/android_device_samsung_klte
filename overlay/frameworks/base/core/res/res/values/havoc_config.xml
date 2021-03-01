@@ -17,11 +17,5 @@
     <integer name="config_deviceHardwareWakeKeys">19</integer>
     <bool name="config_showNavigationBar">true</bool>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
-    <integer-array name="config_autoBrightnessButtonBacklightValues">
-        <item>1</item>
-        <item>1</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-    </integer-array>
+    <integer name="config_buttonBrightnessSettingDefault">1</integer>
 </resources>     
